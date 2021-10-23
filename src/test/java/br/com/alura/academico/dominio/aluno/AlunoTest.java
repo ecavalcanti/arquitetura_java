@@ -1,4 +1,4 @@
-package br.com.academico.escola.dominio.aluno;
+package br.com.alura.academico.dominio.aluno;
 
 import br.com.alura.academico.dominio.aluno.Aluno;
 import br.com.alura.shared.dominio.CPF;

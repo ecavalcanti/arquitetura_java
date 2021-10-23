@@ -1,4 +1,4 @@
-package br.com.academico.aluno.dominio;
+package br.com.alura.shared.dominio;
 
 import br.com.alura.shared.dominio.CPF;
 import org.junit.jupiter.api.Test;

@@ -1,4 +1,4 @@
-package br.com.academico.aluno.dominio;
+package br.com.alura.academico.dominio.aluno;
 
 import br.com.alura.academico.dominio.aluno.Telefone;
 import org.junit.jupiter.api.Test;
